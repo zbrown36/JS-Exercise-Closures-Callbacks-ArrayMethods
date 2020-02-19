@@ -67,7 +67,7 @@ function processLength(list, callback) {
  * should return 'barbar'.
 */
 function processLastItem(stringList, callback) {
-  return callback(stringList.pop()); /* pop will remove the last item in the array for the callback function to pull. */
+  return callback(stringList.pop()); /* pop will remove the last item in the array for the callback function to pull. asdfng */
 }
 
 /**
